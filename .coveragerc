@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = boato
+omit = boato/tests/*,boato/openstack/*
+
+[report]
+ignore-errors = True
